@@ -22,7 +22,7 @@ Getting the banking system up and running is as simple as a few commands.
 
 1.  **Clone the repository** to your machine:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/Reddykesava60/BANKING-SYSTEM.git
     ```
 2.  **Navigate to the project folder**:
     ```bash
